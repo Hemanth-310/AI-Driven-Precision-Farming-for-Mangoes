@@ -136,7 +136,7 @@ The project has five main objectives:
 
 ```bash
 git clone https://github.com/Hemanth-310/AI-Driven-Precision-Farming-for-Mangoes
-cd mango_code
+cd AI-Driven-Precision-Farming-for-Mangoes
 ```
 
 ### Step 2: Install Dependencies
