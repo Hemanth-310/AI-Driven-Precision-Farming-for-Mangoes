@@ -1,0 +1,2 @@
+"""Mango AI application package."""
+
