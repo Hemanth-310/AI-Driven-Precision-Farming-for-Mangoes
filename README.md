@@ -135,7 +135,7 @@ The project has five main objectives:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Hemanth-310/AI-Driven-Precision-Farming-for-Mangoes)
 cd mango_code
 ```
 
