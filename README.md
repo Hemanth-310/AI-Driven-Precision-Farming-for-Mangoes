@@ -341,11 +341,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📧 Contact
-
-[Add contact information]
-
----
-
 **Made with ❤️ for mango farmers and agricultural innovation**
 
